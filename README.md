@@ -1,4 +1,4 @@
-Endpoint ElasticBeanstalk
+Endpoint ElasticBeanstalk:
 udacity-project2-imgDev-dev.us-east-1.elasticbeanstalk.com
 
 Git repository
